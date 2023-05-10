@@ -22,3 +22,5 @@ The conversion formulas are as follows:
 1 yard = 0.9144 meters
 1 yard = 0.0009144 kilometers
 1 yard = 0.000568182 miles
+Customization
+You can customize the available units and conversion formulas by modifying the convert() function in the JavaScript code. You can also modify the HTML and CSS to change the layout and appearance of the unit converter.
